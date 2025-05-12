@@ -1,2 +1,2 @@
-This is a React project built using Vite for fast and optimized development. To run locally, install dependencies with npm install and start the dev server with npm run dev. To build for production, use npm run build. The project is deployed on Vercel for easy sharing and live access.
-Here's the link for it- https://react-repo-orcin.vercel.app/
+This is a modern React + Vite landing page designed for a premium sports shoe brand, showcasing a sleek UI with bold typography and a clean layout. The front page features sections like Menu, Location, About, and Contact, along with call-to-action buttons and external purchase links. While it's not yet fully responsive, it provides a strong foundation for further development. The project is deployed with Vercel for easy access and sharing.
+# Here's the link for it- https://react-repo-orcin.vercel.app/
